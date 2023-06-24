@@ -1,0 +1,11 @@
+name: auto_boost
+plugins:
+  - name: vyper
+  - name: foundry
+  - name: tokens
+  - name: etherscan
+  - name: optimism
+
+
+optimism:
+  default_network: mainnet-fork
